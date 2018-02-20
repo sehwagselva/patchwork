@@ -1,0 +1,6 @@
+[submodule "hello-world"]
+	path = hello-world
+	url = ../android.git
+[submodule "patchwork"]
+	path = patchwork
+	url = ./
